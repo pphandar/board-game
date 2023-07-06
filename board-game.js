@@ -142,14 +142,6 @@ function startGame() {
         }
         isWinner();
         startGame();
-
-        // if (row >= 1 && row <= 3 && col >= 1 && col <= 3) {
-        //     makeMove(row - 1, col - 1);
-        //     startGame();
-        // } else {
-        //     console.log('Invalid input. Please enter row and column numbers between 1 and 3.');
-        //     startGame();
-        // }
     });
 }
 
