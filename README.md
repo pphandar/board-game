@@ -1,5 +1,5 @@
 # board-game
-To play run: 
+To play in terminal run: 
 ```
 node board-game.js
 ```
